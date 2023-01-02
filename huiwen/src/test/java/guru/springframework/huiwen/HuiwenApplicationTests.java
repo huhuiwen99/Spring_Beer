@@ -1,10 +1,10 @@
-package guru.springframework.demo;
+package guru.springframework.huiwen;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class HuiwenApplicationTests {
 
 	@Test
 	void contextLoads() {
